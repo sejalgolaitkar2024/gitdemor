@@ -1,4 +1,4 @@
 # gitdemor
 this is my demo repository
-my hobby is badmintan
-k.b joshi institute
+<br>my hobby is badmintan
+<br>k.b joshi institute
